@@ -1,0 +1,13 @@
+.main-visual {
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: top center;
+  background-position: 50px 100px;
+}
+h2{
+  line-height: 40px;
+  line-height: 1.5;
+}
+blog-item {
+  background-image: url(img/forest.jpg);
+}

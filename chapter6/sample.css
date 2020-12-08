@@ -1,0 +1,16 @@
+.box1 {
+background-image: url(box1.jpg);  
+background-size: cover;
+}
+.box2 {
+  background-image: url(box2.jpg);
+  background-size: cover;
+}
+.box3 {
+  background-image: url(box3.jpg);
+  background-size: cover;
+}
+.box4 {
+  background-image: url(box4.jpg);
+  background-size: cover;
+}
